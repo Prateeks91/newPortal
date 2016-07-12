@@ -1,0 +1,22 @@
+nav{
+
+	background: #000 none repeat scroll 0 0;
+    color: #fff;
+    font-size: 28px;
+    height: 60px;	
+}
+ /* unvisited link */
+nav a:link, nav a:visited,nav a:hover,nav a:active{
+    color: #fff;
+    text-decoration:none;
+    outline:0 none;
+}
+.theName{
+	padding-left: 30px;
+    padding-top: 9px;
+    display:inline-block;
+}
+.searchSection{
+	display:inline-block;
+	
+}
